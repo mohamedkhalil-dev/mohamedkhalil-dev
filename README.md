@@ -8,7 +8,7 @@ Software Developer Intern with training and coding experience in \[Python\] and 
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [mohamedkhalil.e@gmail.com](mailto:mohamedkhalil.e@gmail.com)
-* 🧠  I'm learning Data structure & Algorithms
+* 🧠  I'm learning Data structures & Algorithms
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Am Also A pre-senior Graphic designer & Mechanical Engineer
 
