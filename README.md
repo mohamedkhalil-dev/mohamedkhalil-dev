@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python developer
 ----------------
 
-Software Developer Intern with training and coding experience in \[Python\] and some \[C++\] programming. Knowledgeable in wide range of libraries, modules and methodologies. Bright thinker who loves coding with proven talent for learning quickly in results-oriented environment.
+Software Developer with training and coding experience in [Python] and some  [C++] programming Languages. Knowledgeable in a wide range of libraries, modules, and methodologies. A bright thinker who loves coding with a proven talent for learning quickly in a results-oriented environment.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [mohamedkhalil.e@gmail.com](mailto:mohamedkhalil.e@gmail.com)
